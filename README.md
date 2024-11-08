@@ -18,6 +18,11 @@
 ## 贡献
 - 欢迎大家提出建议和改进意见，如果有更好的解法或者发现错误，请随时联系我。
 
+## 我练习的代码
+- 以下是我在力扣上编写代码对应的链接：
+
+- [minimum-height-trees](https://leetcode.cn/problems/minimum-height-trees/)
+
 # LeetCode Code Practice Notes
 
 This is a repository that stores my code practice notes on LeetCode.
