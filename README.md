@@ -1,4 +1,4 @@
-# CodeStudy_QIN
+# CodeStudy_WQ
 
 # 我的力扣代码练习笔记
 
