@@ -21,8 +21,8 @@
 ## 我练习的代码
 - 以下是我在力扣上编写代码对应的链接：
 
-- [minimum-height-trees](https://leetcode.cn/problems/minimum-height-trees/)
-
+- [minimum-height-trees_problem](https://leetcode.cn/problems/minimum-height-trees/)
+- [minimum-height-trees_studycode](https://github.com/QINCS-VISION/CodeStudy_QIN/blob/main/310MinimumHeightTrees.py)
 # LeetCode Code Practice Notes
 
 This is a repository that stores my code practice notes on LeetCode.
