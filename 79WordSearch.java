@@ -1,3 +1,7 @@
+// 秦的力扣学习笔记：https://github.com/QINCS-VISION/CodeStudy_QIN
+// 下面代码实现的是力扣（LeetCode）上的“最小高度树”问题，你可以通过以下链接查看具体题目描述：
+// https://leetcode.cn/problems/word-search/description/
+
 import java.util.Arrays;
 
 class Solution {
