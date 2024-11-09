@@ -32,6 +32,12 @@
 
 This is a repository that stores my code practice notes on LeetCode.
 
+- [310 minimum-height-trees](https://leetcode.cn/problems/minimum-height-trees/)
+- [310 My Code](https://leetcode.cn/submissions/detail/579052534/)
+
+- [79 WordSearch](https://leetcode.cn/problems/minimum-height-trees/)
+- [79 My Code](https://leetcode.cn/submissions/detail/579032602/)
+
 ## Content Overview
 - This repository contains the code implementation and corresponding thought analysis during my process of solving LeetCode algorithm problems.
 
