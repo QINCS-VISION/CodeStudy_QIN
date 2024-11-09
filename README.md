@@ -22,6 +22,7 @@
 - 以下是我在力扣上编写代码对应的链接：
 
 - [310 minimum-height-trees](https://leetcode.cn/problems/minimum-height-trees/)
+- [My Code on Leetcode] (https://leetcode.cn/submissions/detail/579052534/)
 
 - [79 WordSearch](https://leetcode.cn/problems/minimum-height-trees/)
   
